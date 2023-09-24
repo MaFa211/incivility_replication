@@ -9,7 +9,7 @@ uk_sample = pd.read_csv('uk_sample.csv')
 
 
 
-api_key = 'AIzaSyDy-t_XHu90XKf6bSTWxg3mAs_4gMHJ4OI'
+api_key = '-'
 
 
 def make_request(tweet_text: str, api_key: str, lang: str):    
